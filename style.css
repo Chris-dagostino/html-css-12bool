@@ -1,0 +1,23 @@
+.debug .container {
+    min-height: 100px;
+}
+
+.debug .box {
+    background-color: #006cfa;
+    min-height: 50px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+}
+
+.debug .box-green {
+    background-color: #00e165 ;
+    min-height: 30px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #006cfa;
+}
